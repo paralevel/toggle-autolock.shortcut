@@ -1,6 +1,9 @@
 # Toggle Auto-Lock (shortcut)
+
+[Install the latest version](https://github.com/paralevel/toggle-autolock.shortcut/releases)
+
 Shortcut for the control center on iOS that first takes you to the display auto-lock settings page, then when you have chosen a setting, the shortcut renames itself to reflect the new auto-lock status, and afterwards you are returned to where you launched the shortcut from (either the previous app or the home screen).
-<br><br>
+
 When adding it to the control center, make sure not to shrink it from widget size to icon size, or you won't be able see the current auto-lock status.
 <br><br>
 Limitations
